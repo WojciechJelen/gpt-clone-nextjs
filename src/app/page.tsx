@@ -1,5 +1,3 @@
-//import Image from "next/image";
-
-export default function Home() {
-  return <div>Hello World</div>;
+export default async function Home() {
+  return <div>Chat with GPT</div>;
 }
